@@ -29,4 +29,4 @@ We take your privacy seriously. The plugin:
 ## Contact
 
 For support or questions, reach out to us:
-wwww.x.com/jon_chuka
+https://x.com/jon_chuka
